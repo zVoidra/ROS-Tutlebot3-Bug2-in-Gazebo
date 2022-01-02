@@ -1,0 +1,8 @@
+prefix=/home/ros-icbm/Desktop/ROS_Gazebo/odev2/devel
+
+Name: turtoise2
+Description: Description of turtoise2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

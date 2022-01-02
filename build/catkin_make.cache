@@ -1,0 +1,2 @@
+turtoise2
+-DCATKIN_DEVEL_PREFIX=/home/ros-icbm/Desktop/ROS_Gazebo/odev2/devel -DCMAKE_INSTALL_PREFIX=/home/ros-icbm/Desktop/ROS_Gazebo/odev2/install -G Unix Makefiles
